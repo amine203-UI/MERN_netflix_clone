@@ -1,7 +1,5 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
-<p align="center">
-  <strong>Developed by Amine Ould Medjeber</strong>
-</p>
+
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
@@ -47,10 +45,6 @@ npm run dev
 
 
 
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
+
 
 
